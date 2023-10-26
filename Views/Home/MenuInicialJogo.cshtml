@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Menu Inicial";
+}
+<div class="mainMenu">
+    <input type="text" placeholder="Digite Seu nome" class="nomeusuario">
+    <div class="menuOpcoes">
+
+        <a href="#" onclick="abrirPopUp2()">COMO JOGAR</a>
+        <a href="#" onclick="abrirPopUp()">RANKING</a>
+        <a href="https://github.com/NeemiasHD" target="_blank"><i class='bx bxl-github'></i></a>
+
+    </div>
+
+    <a class="botaoIniciar" onclick="Inicializador()">
+        começar
+    </a>
+    <p class="AvisoErro"></p>
+    <a class="iniciar" asp-controller="Home" asp-action="Index"></a>
+
+</div>
+
+<script src="~/js/MenuInicialJogo.js" asp-append-version="true"></script>

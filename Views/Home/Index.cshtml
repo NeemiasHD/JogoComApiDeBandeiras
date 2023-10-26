@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<audio class="somAcerto" src="/SoundEffects/BubbleBellAcerto.mp3" type="audio/mpeg">
+
+
+
+</audio>
+<audio class="somClick" src="/SoundEffects/BubbleBellClick.mp3" type="audio/mpeg">
+
+
+
+</audio>
+<audio class="clockSound" src="/SoundEffects/clock.mp3" type="audio/mpeg">
+
+
+
+</audio>
+<audio class="musica" loop src="/SoundEffects/GameAudio.mp3" type="audio/mpeg">
+
+
+
+</audio>
+<audio class="GanhoPontoExtra" src="/SoundEffects/GanhoPonto.mp3" type="audio/mpeg">
+
+
+
+</audio>
+
+
+<main>
+
+    <div class="placar">
+        <p class="acertos">ACERTOS:<span class="NumeroAcertos"></span></p>
+        <p class="erros">ERROS:<span class="NumeroErros"></span></p>
+    </div>
+    <div class="bandeiras"><img class="bandeirasorteada" src="" width="350px">
+        <span class="loader"></span>
+    </div>
+    <div class="escolhas">
+        <p class="escolha0" onclick="ProximoPais(0)">Carregando...</p>
+        <p class="escolha1" onclick="ProximoPais(1)">Carregando...</p>
+        <p class="escolha2" onclick="ProximoPais(2)">Carregando...</p>
+        <p class="escolha3" onclick="ProximoPais(3)">Carregando...</p>
+        <a class="voltar" asp-controller="Home" asp-action="MenuInicialJogo"></a>
+    </div>
+
+</main>
+<main class="PopUpVoltarMenu">
+    <h1>Pontuação Final:</h1>
+    <p class="Pontuacaofinal"></p>
+
+    <div class="ErrosErrados">
+        <div class="NumeroErros">Erros:
+        </div>
+        <p class="pontoErro"></p>
+    </div>
+    <div class="AcertosAcertados">
+        <div class="NumeroAcertos">Acertos:
+        </div>
+        <p class="pontoAcerto"></p>
+    </div>
+
+    <a href="" class="repetir" onclick="ProximoPais()">Repetir</a>
+    <a class="backmenu" onclick="voltar_ao_menu()">Voltar Menu</a>
+
+</main>
+<main class="cronometro">
+    <P class="Contador">
+        10
+    </P>
+
+</main>
+<script src="~/js/Gameplay.js" asp-append-version="true"></script>
