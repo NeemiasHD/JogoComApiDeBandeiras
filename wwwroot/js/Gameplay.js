@@ -1,14 +1,18 @@
 let numeroAleatorio2 = 999; //local da resposta certa
-    let acertos = 0,
-      erros = 0;
-
+let acertos = 0, erros = 0;
 let tempo = 20;
 
+
+setTimeout(FimDeJogo, 20000);
 Cronometro();
 ProximoPais();
+
+
 if(localStorage.getItem("isMuted")==1){
   document.querySelector(".musica").play();
   
+}else{
+    document.getElementById("MutarDesmutar").style.color = "red";
 }
 
 
@@ -18,6 +22,7 @@ function Mutar(){
 
   if (localStorage.getItem("isMuted")==1) {
     mutar.muted = true;
+    
     localStorage.setItem("isMuted", 0);
     document.getElementById("MutarDesmutar").style.color = "red";
   }else{
@@ -32,7 +37,6 @@ function Mutar(){
 //função pra iniciar
 function ProximoPais(esc) {
 
-  setTimeout(FimDeJogo, 20000);
 
    if (numeroAleatorio2 != 999) {
      //verificador de resposta
@@ -93,12 +97,15 @@ function ProximoPais(esc) {
 }
 
 function FimDeJogo(){
+  console.log("OI")
+  mutar.muted = true;
   document.querySelector(".TelaEscura").style.opacity = "1"; 
   document.querySelector(".PopUpVoltarMenu").style.top = "130px";
   document.querySelector(".PopUpVoltarMenu").style.pointerEvents = "All";
   document.querySelector(".Pontuacaofinal").innerHTML = (acertos-erros);
   document.querySelector(".pontoErro").innerHTML = erros;
   document.querySelector(".pontoAcerto").innerHTML = acertos;
+  document.querySelector(".fimdeJogo").play();
 
 }
 

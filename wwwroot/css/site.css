@@ -178,6 +178,7 @@ main {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   margin-top: 20px;
   color: red;
+  text-align: center;
 }
 
 
@@ -372,7 +373,8 @@ main {
 
 /*POPS UPS: */
 /*ranking*/
-.PopUp,.PopUp2 {
+.PopUp,
+.PopUp2 {
   position: absolute;
   width: 100%;
   display: flex;
@@ -542,24 +544,24 @@ main {
   justify-content: center;
   align-items: center;
   display: flex;
-  border-radius: 100px;
   border: 5px solid var(--CorTEMA);
   color: rgb(255, 255, 255);
 
 }
 
-#MutarDesmutar{
+#MutarDesmutar {
   color: white;
 }
 
-footer{
+footer {
   position: fixed;
   bottom: 10px;
   width: 100%;
   display: flex;
   justify-content: center;
 }
-footer p{
+
+footer p {
   font-family: 'Courier New', Courier, monospace;
 
 }
@@ -582,4 +584,59 @@ footer p{
   100% {
     transform: scale(1);
   }
+}
+
+@media (max-width: 1000px) {
+
+  .Contador {
+    display: none;
+  }
+
+  .PopUpVoltarMenu {
+    width: 100%;
+  }
+
+  .escolhas {
+    gap: 0px;
+
+  }
+
+  .escolha1,
+  .escolha2,
+  .escolha3,
+  .escolha0 {
+    width: 370px;
+    height: 80px;
+    background-color: var(--CorTEMA);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+    transition: all .3s;
+    text-align: center;
+    font-size: 150%;
+  }
+  
+}
+
+@media (max-height: 645px) {
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 502px) {
+  .mainMenu {
+    width: 100%;
+  }
+    .Ranking,.ComoJogar {
+      width: 100%;
+    }
+    .nomeusuario{
+      width: 130%;
+    }
+
+
 }

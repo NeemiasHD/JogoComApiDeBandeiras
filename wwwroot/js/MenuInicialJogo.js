@@ -2,7 +2,6 @@ var inputElement = document.querySelector(".nomeusuario");
 
 var valorSalvo = localStorage.getItem("valorCampoNome");
 
-localStorage.setItem("isMuted", false);
 
 
 // Adicione um ouvinte de evento para salvar o valor no localStorage sempre que o campo de entrada for alterado.

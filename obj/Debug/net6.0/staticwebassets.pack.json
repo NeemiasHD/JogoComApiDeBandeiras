@@ -21,8 +21,16 @@
       "PackagePath": "staticwebassets\\SoundEffects\\GanhoPonto.mp3"
     },
     {
+      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\MenuAudio.mp3",
+      "PackagePath": "staticwebassets\\SoundEffects\\MenuAudio.mp3"
+    },
+    {
       "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\clock.mp3",
       "PackagePath": "staticwebassets\\SoundEffects\\clock.mp3"
+    },
+    {
+      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\fimDeJogo.mp3",
+      "PackagePath": "staticwebassets\\SoundEffects\\fimDeJogo.mp3"
     },
     {
       "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\css\\site.css",
@@ -33,28 +41,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\background.jpg",
-      "PackagePath": "staticwebassets\\img\\background.jpg"
-    },
-    {
-      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\background4.jpg",
-      "PackagePath": "staticwebassets\\img\\background4.jpg"
-    },
-    {
       "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\bandeira.gif",
       "PackagePath": "staticwebassets\\img\\bandeira.gif"
     },
     {
-      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\download.png",
-      "PackagePath": "staticwebassets\\img\\download.png"
-    },
-    {
-      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\download2.jpg",
-      "PackagePath": "staticwebassets\\img\\download2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\plano.mp4",
-      "PackagePath": "staticwebassets\\img\\plano.mp4"
+      "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\iconbandeira.png",
+      "PackagePath": "staticwebassets\\img\\iconbandeira.png"
     },
     {
       "Id": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\plano.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F6I/TiO7PLWEpn9Czlv7r4h3/KHyPYmEz+a1+aLOw1A=",
+  "Hash": "3iZ0GlX47fdDRWzsVz1WZriRYwN49RfkUhui29eovpM=",
   "Source": "QuePaisEesseJogo",
   "BasePath": "_content/QuePaisEesseJogo",
   "Mode": "Default",
@@ -85,40 +85,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\background.jpg",
-      "SourceId": "QuePaisEesseJogo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
-      "BasePath": "_content/QuePaisEesseJogo",
-      "RelativePath": "img/background.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\background.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\background4.jpg",
-      "SourceId": "QuePaisEesseJogo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
-      "BasePath": "_content/QuePaisEesseJogo",
-      "RelativePath": "img/background4.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\background4.jpg"
-    },
-    {
       "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\bandeira.gif",
       "SourceId": "QuePaisEesseJogo",
       "SourceType": "Discovered",
@@ -136,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\img\\bandeira.gif"
     },
     {
-      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\download.png",
+      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\iconbandeira.png",
       "SourceId": "QuePaisEesseJogo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
       "BasePath": "_content/QuePaisEesseJogo",
-      "RelativePath": "img/download.png",
+      "RelativePath": "img/iconbandeira.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,41 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\download.png"
-    },
-    {
-      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\download2.jpg",
-      "SourceId": "QuePaisEesseJogo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
-      "BasePath": "_content/QuePaisEesseJogo",
-      "RelativePath": "img/download2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\download2.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\plano.mp4",
-      "SourceId": "QuePaisEesseJogo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
-      "BasePath": "_content/QuePaisEesseJogo",
-      "RelativePath": "img/plano.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\plano.mp4"
+      "OriginalItemSpec": "wwwroot\\img\\iconbandeira.png"
     },
     {
       "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\img\\plano.png",
@@ -1275,6 +1207,23 @@
       "OriginalItemSpec": "wwwroot\\SoundEffects\\clock.mp3"
     },
     {
+      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\fimDeJogo.mp3",
+      "SourceId": "QuePaisEesseJogo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
+      "BasePath": "_content/QuePaisEesseJogo",
+      "RelativePath": "SoundEffects/fimDeJogo.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SoundEffects\\fimDeJogo.mp3"
+    },
+    {
       "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\GameAudio.mp3",
       "SourceId": "QuePaisEesseJogo",
       "SourceType": "Discovered",
@@ -1307,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\SoundEffects\\GanhoPonto.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\SoundEffects\\MenuAudio.mp3",
+      "SourceId": "QuePaisEesseJogo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roger\\Desktop\\FACULDADE\\HTML PROJETOS\\QuePaisEesseJogo\\QuePaisEesseJogo\\wwwroot\\",
+      "BasePath": "_content/QuePaisEesseJogo",
+      "RelativePath": "SoundEffects/MenuAudio.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SoundEffects\\MenuAudio.mp3"
     }
   ]
 }

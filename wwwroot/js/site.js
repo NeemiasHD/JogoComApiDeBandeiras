@@ -1,7 +1,7 @@
 ﻿
 //start
-
 //EFEITOS SONOROS
+
 
 function tocadorAudio(som) {
   if (som == 1) {
